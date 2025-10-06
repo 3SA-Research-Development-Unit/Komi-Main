@@ -1,7 +1,7 @@
-#define MAINPREFIX ~MAINPREFIX~
-#define PREFIX ~PREFIX~
+#define MAINPREFIX x
+#define PREFIX KOMI
 
-#define PREFIX_BEAUTIFIED ~PREFIX~
+#define PREFIX_BEAUTIFIED KOMI
 
 
 #include "script_version.hpp"

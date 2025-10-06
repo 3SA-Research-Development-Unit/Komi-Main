@@ -1,4 +1,4 @@
-#include "\~MAINPREFIX~\~PREFIX~\addons\main\data\hpp\defineDIKCodes.hpp"
+#include "\x\KOMI\addons\main\data\hpp\defineDIKCodes.hpp"
 
 /*
 [
